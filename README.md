@@ -11,3 +11,6 @@ Growth Mindset in my own words is the want to learn, and always finding new ways
 - Embrace Challenges
 - **Never** Give Up
 - Give 100% Effort
+
+Table of Contents
+- [Discussion Assignment 102](/Discussion.md)
