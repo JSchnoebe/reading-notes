@@ -14,3 +14,4 @@ Growth Mindset in my own words is the want to learn, and always finding new ways
 
 Table of Contents
 - [Discussion Assignment 102](/Discussion.md)
+- [Discussion Assignment 102-02](/Discussion-02.md)
