@@ -6,10 +6,10 @@
 2. To pull new data to a local repository, this command is used.
 3. To merge changes from one branch to your current one, use this command.
 4. This comand allows the setting of configuration variables that control aspects of Git’s operation and look.
-5. To list avaliable branches, use this command.
+5. To list available branches, use this command.
 
 
-
+### Commands
 
 1. git fetch
 2. git config
@@ -25,4 +25,4 @@
 2. To pull new data to a local repository, this command is used. **1**
 3. To merge changes from one branch to your current one, use this command. **4**
 4. This comand allows the setting of configuration variables that control aspects of Git’s operation and look. **2**
-5. To list avaliable branches, use this command. **5**
+5. To list available branches, use this command. **5**
