@@ -6,6 +6,4 @@
 <p>Just like any other form of coding, HTML uses syntax to change the look of the page. For example, if you wanted to make a paragraph you use the letter p inside of less than and greater than symbols(<>). To end the paragraph you use the same symbol, but with a forward slash(/) in front of the p. Below is a list of different HTML commands</p>
 
 <ul>
-<li>command
-command
-</li>
+<li>command</li><li>Command</li>
