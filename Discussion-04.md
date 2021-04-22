@@ -7,3 +7,4 @@
 
 <ul>
 <li>head - The document head.</li><li>title - The page title.</li><li>body - The pages content.</li><li>h1 - The pages first heading.</li><li>p - To make a aparagraph.</li><li>a - Used to make link.</li><li>img - Used to add image.</li><li>span - Used to make an inline container for content.</li>
+</ul>
