@@ -18,4 +18,5 @@ Table of Contents
 - [Discussion Assignment 102-03](/Discussion-03.md)
 - [Discussion Assignment 102-04](/Discussion-04.md)
 - [Discussion Assignment 102-05](/Discussion-05.md)
+- [Discussion Assignment 102-06](/Discussion-06.md)
 
