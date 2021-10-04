@@ -1,5 +1,5 @@
 # Reading Notes
-## Code 102-Reading Notes
+## Code 101 & 401-Reading Notes
 
 **Hello, my name is Jaren.**
 
@@ -12,6 +12,9 @@ Growth Mindset in my own words is the want to learn, and always finding new ways
 - **Never** Give Up
 - Give 100% Effort
 
-Table of Contents
+Table of Contents 101
 - [Discussion Assignment 102](/Discussion.md)
 - [Discussion Assignment 102-02](/Discussion-02.md)
+
+Table of contents 401
+- [Reading Notes 01](/ReadingNotes01.md)
