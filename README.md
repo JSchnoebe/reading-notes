@@ -15,6 +15,14 @@ Growth Mindset in my own words is the want to learn, and always finding new ways
 Table of Contents 101
 - [Discussion Assignment 102](/Discussion.md)
 - [Discussion Assignment 102-02](/Discussion-02.md)
+- [Discussion Assignment 102-03](/Discussion-03.md)
+- [Discussion Assignment 102-04](/Discussion-04.md)
+- [Discussion Assignment 102-05](/Discussion-05.md)
+- [Discussion Assignment 102-06](/Discussion-06.md)
+- [Discussion Assignment 102-07](/Discussion-07.md)
+- [Discussion Assignment 102-08](/Discussion-08.md)
+
 
 Table of contents 401
 - [Reading Notes 01](/ReadingNotes01.md)
+
