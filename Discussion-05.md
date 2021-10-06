@@ -1,0 +1,8 @@
+# Using Color
+
+
+<p>One of the most important things when it comes to building a website is CSS. CSS alows you to control how your HTML is presented. For example, if you were to build a website with just HTML, there would be no organization with the text. With CSS you can control how the HTML is layed out on the page. You can also change the content itself. For example you can change the color of the text, the size, and even make lists or tables. CSS uses style rules with HTML elements to do these things. It uses a selector, which is the element you want to make changes to, and it uses a declaration which indicates how that element will be styled.</p>
+<p> When making a website, you want to be aware of what catches the users eye, and also what might make the website easier to navigate. Colors are very important in creating a good looking and easy to use website. Although color can make a website look pretty, there are some things you need to avoid. You dont want foreground and background colors to match. If this were the case, it would be hard to see the item you are selecting. Having a good contrast makes it much easier to see and makes navigating the site much faster.</p>
+<p> A cumputer recognizes colors by the three main colors red, blue, and green. So if you wanted to make something purple, the computer looks at the amount of red, blue, and green you are using. So to make a purple color, you have a few options; rgb, hsl, rgba, and hsla. The (A) at the end of these is the opacity which can make the text or colors more translucent. To make a purple with rgb you would type, rgb(200,0,200). This shows the value of red being 200, the value of green being 0, and the value of blue being 200. </p>
+
+
