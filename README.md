@@ -26,3 +26,4 @@ Table of Contents 101
 Table of contents 401
 - [Reading Notes 01](/ReadingNotes01.md)
 - [Reading Notes 02](/ReadingNotes02.md)
+- [Reading Notes 03](/ReadingNotes03.md)
